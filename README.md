@@ -2,7 +2,7 @@
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
- 
+  
 ## REQUIREMENTS
  1. Autodesk fusion 360
  2. Windows 10
